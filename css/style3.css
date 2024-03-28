@@ -1,0 +1,46 @@
+
+header {
+    height:250px;
+    background-color: rgb(2, 55, 17);
+    border:4px solid black;
+    margin-top: 10px auto;
+}
+.container{
+    border: 4px solid black;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+    margin: 1opx;
+}
+
+.section1 {
+    align-content: space-between;
+    background-color: blue;
+    border: 4px solid black;
+    flex-basis: 50%;
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+    
+
+.section2 {
+    background-color: rgb(58, 235, 100);
+    border: 4px solid black;
+    flex-basis: 50%;
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px ;
+    
+}
+
+
+footer {
+    height: 250px;
+    background-color: rgb(64, 43, 226);
+    border: 4px solid black;
+
+    
+}

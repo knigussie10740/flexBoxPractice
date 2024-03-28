@@ -1,0 +1,53 @@
+
+
+header {
+    display: flex;
+    background-color: orange;
+    height: 305px;
+    border: 4px solid black;
+    margin-top: 10px;
+    
+    
+}
+.main-container{
+    height:1000px;
+    width: 100%;
+    margin:0px;
+   
+    
+}
+
+main {
+    display: flex;
+    margin: 0px;
+}
+
+.box1 {
+    background-color: aqua;
+    border: 4px solid black;
+    height: 305px;
+    flex-basis: 20%;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+  
+}
+
+.box2 {
+    background-color: rgb(246, 71, 211);
+    border: 4px solid black;
+    height: 305px;
+    flex-basis: 80%;
+    margin-top: 10px;
+    margin-left: 10px;
+  
+}
+footer{
+    background-color: rgb(70, 46, 1);
+    height: 305px;
+    border: 4px solid black;
+    margin-bottom: 10px;
+   
+} 

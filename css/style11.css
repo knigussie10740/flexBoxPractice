@@ -1,0 +1,40 @@
+.main-container{
+    display: flex;
+    height: 996px;
+    flex-basis: 100%;
+}
+.box1{
+    justify-content: center;
+    background-color: #206e1a;
+    border: 2px solid black;
+    height: 970px;
+    width: 33%;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left:10px;
+}
+
+.box2{
+    justify-content: center;
+    background-color:#de0a02;
+    border: 2px solid black;
+    height: 970px;
+    width: 33%;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left:10px;
+}
+
+.box3{
+    justify-content: center;
+    background-color:#f1f502;
+    border: 2px solid black;
+    height: 970px;
+    width: 33%;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left:10px;   
+}
