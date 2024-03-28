@@ -9,11 +9,11 @@
     flex-direction: column;
     background-color:#c6c90c;
     border: 2px solid black;
-    height: 980px;
+    height: 970px;
     flex-basis: 50%;
     margin-top:10px;
     margin-right:10px;
-    margin-bottom:10px;
+    margin-bottom:20px;
     margin-left:10px;
 }
 
@@ -30,18 +30,18 @@
 .box2{
     background-color:#51a4fc ;
     border: 2px solid black;
-    height: 483px;
+    height: 473px;
     flex-basis: 50%;
     margin-top:10px;
     margin-right:10px;
-    margin-bottom:12px;
+    margin-bottom:20px;
     margin-left: 10px;
 }
 
 .box3{
     background-color:#20bd6e ;
     border: 2px solid black;
-    height: 483px;
+    height: 473px;
     flex-basis: 50%;
     margin-top:11px;
     margin-right:10px;
@@ -65,6 +65,6 @@
     flex: basis 50%;
     margin-top:10px;
     margin-right:10px;
-    margin-bottom:10px;
+    margin-bottom:20px;
     margin-left: 10px;
 }
